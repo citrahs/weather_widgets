@@ -19,3 +19,5 @@ Then add the following lines to the app's config.json file in "widgetPool" --> "
 }
 
 NOTE: Developed using WAB DE 2.5. Tested in WAB DE 2.7. This widget does NOT require any configuration.
+
+credit : [sch7712](https://community.esri.com/people/sch7712)
